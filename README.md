@@ -1449,3 +1449,730 @@ Create a mobile calendar specifically for managing academic events, deadlines, a
 ---
 
 These tools offer solutions across multiple domains from **file conversion**, **design**, **productivity**, **entertainment**, to **security**. They can be extremely helpful for **students**, **freelancers**, **professionals**, and anyone looking to simplify daily tasks or improve their workflow.
+
+--------
+
+Here are detailed prompt ideas for versatile, widely useful tools—designed to be helpful for students, professionals, families, and creators across various industries:
+
+-----
+
+## 🔧 **General-Purpose Tools (Useful for Everyone)**
+
+#### 🧠 Smart Note Organizer
+
+**Prompt:**
+
+> Build an AI-powered note organizer that allows users to tag, summarize, and link related notes. It should support voice input, OCR for images, handwriting recognition, and markdown formatting. Add integration with Google Drive and Dropbox, and allow users to search notes semantically.
+
+#### 🗓️ Daily Planner + AI Scheduler
+
+**Prompt:**
+
+> Create a smart planner that automatically prioritizes tasks using urgency, deadlines, and personal productivity patterns. Include daily/weekly/monthly views, time-blocking, recurring tasks, Pomodoro timer integration, and sync with Google Calendar and Outlook.
+
+#### 📎 AI-powered File Organizer
+
+**Prompt:**
+
+> Design a tool that scans users' local or cloud folders and organizes files into categories (images, PDFs, invoices, etc.) using AI. It should detect duplicates, rename files intelligently, and suggest archiving or deletion for unused documents.
+
+#### 🔐 Password Organizer with Breach Scanner
+
+**Prompt:**
+
+> Build a password vault that encrypts credentials and includes a built-in breach scanner using public breach data sources. Add features like password strength checker, password generator, auto-fill extensions, and biometric login.
+
+#### 🌐 Internet Speed & Network Health Dashboard
+
+**Prompt:**
+
+> Create a real-time network tool that tests download/upload speed, latency, and packet loss. Offer suggestions for improving speed, identify bandwidth-heavy apps/devices, and provide router diagnostics.
+
+#### 🔎 All-in-One Search Dashboard
+
+**Prompt:**
+
+> Design a unified search tool that can query Google, YouTube, Wikipedia, Reddit, Stack Overflow, and Twitter simultaneously. Allow filtering by platform, content type (video, text), and recency.
+
+---
+
+### 👨‍👩‍👧‍👦 For Families, Parents, and Daily Home Management
+
+#### 🧾 Grocery & Meal Planner Assistant
+
+**Prompt:**
+
+> Create a family-friendly meal planner that generates weekly menus based on dietary preferences and converts them into categorized grocery lists. Add budget tracking, portion control, allergy filters, and recipe recommendations from social trends.
+
+#### 👪 Family Schedule Syncer
+
+**Prompt:**
+
+> Build a family calendar and task sync tool where parents can assign school pickups, chores, appointments, etc. Include shared reminders, attendance logs, and private notes for each family member.
+
+#### 📚 Study + Homework Time Allocator for Kids
+
+**Prompt:**
+
+> Design a tool for parents to allocate screen-free study time for their children based on subjects, homework deadlines, and energy levels. Include break timers, gamified rewards, and screen lock suggestions during sessions.
+
+---
+
+### 🎓 For Students and Academics
+
+#### ✏️ Essay & Assignment Planner
+
+**Prompt:**
+
+> Build an essay planner that breaks down large assignments into subtasks—research, outlining, writing, citations, and proofreading. Include built-in timers, research note collectors, and deadline notifications.
+
+#### 📋 Citation Generator & Manager
+
+**Prompt:**
+
+> Create a tool that auto-generates citations in APA, MLA, Chicago, and IEEE from URLs, books, and journals. Include a citation bank, in-text citation assistant, and bibliography export in multiple formats.
+
+#### 📌 Concept Map Builder
+
+**Prompt:**
+
+> Design a drag-and-drop visual concept mapping tool for studying complex subjects. Support linking concepts, adding notes/media, and AI-based concept suggestions to expand understanding.
+
+#### 📊 Grade & GPA Tracker
+
+**Prompt:**
+
+> Create a GPA calculator that lets students input grades, course credits, and semester breakdowns. Provide projections for future GPA scenarios, required scores to reach goals, and visual performance dashboards.
+
+---
+
+Great — here’s a detailed batch of **AI tool prompts** tailored for **HR professionals, job seekers, recruiters, resume creators, and SEO/content optimization experts**. Each prompt is written in a reusable format and focused on high-utility tool creation:
+
+---
+
+### 👔 **HR & Job Tools**
+
+#### 🧑‍💼 AI Resume & Cover Letter Generator
+
+**Prompt:**
+
+> Build a tool that creates tailored resumes and cover letters using job descriptions as input. It should support keyword optimization for ATS systems, suggest bullet points for achievements, and allow customization by industry, tone, and format.
+
+#### 🔍 Job Description Optimizer
+
+**Prompt:**
+
+> Create a tool that analyzes job descriptions for clarity, bias, and keyword effectiveness. It should suggest inclusive language, highlight vague phrases, and benchmark descriptions against industry standards for attraction and conversion.
+
+#### 🎯 Candidate Pre-Screening Assistant
+
+**Prompt:**
+
+> Develop an AI tool that screens resumes based on role criteria, extracts relevant experience, and ranks applicants. Include question generators for initial interviews, candidate match scores, and skill gap analysis reports.
+
+#### 🧾 HR Policy Generator
+
+**Prompt:**
+
+> Build a customizable HR policy generator that allows users to select policies (leave, remote work, anti-harassment, onboarding, etc.), local laws, and company size. It should output compliant, editable policy documents.
+
+#### 🧠 Soft Skill Evaluator from Interview Text
+
+**Prompt:**
+
+> Create a tool that analyzes written or transcribed interview responses to evaluate soft skills like leadership, communication, adaptability, and problem-solving. Include feedback and fit suggestions for team environments.
+
+---
+
+## 📄 **Resume & Career Development Tools**
+
+#### 🔍 Resume Checker & ATS Analyzer
+
+**Prompt:**
+
+> Build a tool that scans a resume and compares it against a specific job posting to calculate ATS compatibility. Highlight missing keywords, formatting issues, and suggest edits for clarity and strength of achievements.
+
+#### 🎓 Skills Gap Analyzer & Learning Path Advisor
+
+**Prompt:**
+
+> Create a tool that analyzes a user’s resume or LinkedIn profile, identifies skills gaps for a target role, and recommends a custom learning path using free/paid courses from platforms like Coursera, Udemy, or Khan Academy.
+
+#### 🏆 Personal Portfolio Builder for Job Seekers
+
+**Prompt:**
+
+> Design a no-code website builder that helps users showcase resumes, project portfolios, testimonials, and contact forms. Include one-click LinkedIn import, theme customization, and SEO optimization for personal branding.
+
+#### 🗓️ Job Tracker & Interview CRM
+
+**Prompt:**
+
+> Build a job application tracker that lets users log applied roles, follow-ups, deadlines, and interview stages. Include reminder alerts, notes per employer, and conversion analytics (application → interview → offer).
+
+---
+
+### 📈 **SEO & Content Optimization Tools**
+
+#### 🧩 On-Page SEO Audit Tool
+
+**Prompt:**
+
+> Create a tool that audits a webpage for title tags, meta descriptions, keyword usage, internal links, heading structure, and content readability. Suggest fixes for technical and content-based on-page SEO issues.
+
+#### 📚 Content Outline Generator from Keyword
+
+**Prompt:**
+
+> Build an AI tool that generates complete content outlines from a focus keyword. Include sections, subheadings, FAQs, intent-based structure (informational, commercial), and internal/external link suggestions.
+
+#### ✍️ SEO Content Improver
+
+**Prompt:**
+
+> Design a content optimizer that analyzes existing blog posts and recommends improvements in clarity, keyword density, semantic richness (LSI), tone, and competitive gaps. Integrate SERP analysis and NLP scoring.
+
+#### 🧠 Entity & Topic Suggestion Tool
+
+**Prompt:**
+
+> Create a tool that analyzes top-ranking pages and suggests missing entities, related topics, and questions for comprehensive topical authority. Include competitor comparison and export-ready brief formats.
+
+#### 📊 SERP Snapshot & Ranking Tracker
+
+**Prompt:**
+
+> Build a tool that captures daily SERP snapshots for selected keywords, tracks ranking history, and highlights algorithmic volatility. Include screenshot archiving, snippet type detection, and visual trend graphs.
+
+---
+
+
+Absolutely! Here are **powerful, practical prompts** designed for building tools **using Google Gemini Free API Key** — ideal for developers, marketers, freelancers, educators, or solo founders. Each is written to maximize Gemini’s strengths in language, reasoning, and multi-modal understanding (text, image, code, etc.).
+
+---
+
+### ⚙️ **AI Tools Using Google Gemini Free API Key**
+
+*(Markdown format, use-ready prompts)*
+
+---
+
+#### ✍️ AI-Powered Article Rewriter
+
+**Prompt:**
+
+> Use Google Gemini to build a tool that rewrites any article with improved readability and SEO. Include modes for tone adjustment (professional, casual, academic), keyword preservation, and plagiarism-friendly rewriting.
+
+---
+
+#### 🧠 Smart Q\&A Assistant for Blogs or Docs
+
+**Prompt:**
+
+> Build a chatbot using Gemini API that answers questions based on uploaded documents, PDFs, or website content. Include support for markdown formatting, semantic search, and multi-language queries.
+
+---
+
+#### 🧾 Resume & Cover Letter Writer
+
+**Prompt:**
+
+> Use Gemini API to build a dynamic tool that generates custom resumes and cover letters based on uploaded job descriptions and LinkedIn profiles. Allow style selection (creative, ATS-friendly, corporate) and keyword injection.
+
+---
+
+#### 📊 Marketing Campaign Generator
+
+**Prompt:**
+
+> Create a tool that generates complete marketing campaigns including email templates, social media posts, blog outlines, and CTAs based on a product or niche. Integrate Gemini for language variation and campaign goal adaptation.
+
+---
+
+#### 📚 LMS Content & Quiz Creator
+
+**Prompt:**
+
+> Develop an LMS content builder where Gemini generates structured lesson plans and quizzes from topic input. Add support for MCQs, true/false, short answers, and Bloom’s Taxonomy-based levels.
+
+---
+
+#### 🧩 On-Page SEO Optimizer
+
+**Prompt:**
+
+> Build a web app where Gemini reviews webpage content and provides keyword suggestions, meta tags, improved titles, and structured schema recommendations based on current Google best practices.
+
+---
+
+#### 🎨 Blog to Carousel Generator
+
+**Prompt:**
+
+> Use Gemini to convert blog posts into visually engaging social media carousels with suggested titles, slides, and CTA. Integrate Markdown or Canva export formats for easy design workflows.
+
+---
+
+#### 🧠 Flashcard Generator for Students
+
+**Prompt:**
+
+> Create an educational app using Gemini where students input textbook paragraphs or YouTube transcripts, and the tool outputs flashcards with Q/A format using spaced repetition-ready formats.
+
+---
+
+#### 🧾 Policy or Contract Generator
+
+**Prompt:**
+
+> Build a generator for privacy policies, NDAs, service agreements, etc. using Gemini. Let users choose business type, legal jurisdiction, and policy type, then receive editable legalese-style text.
+
+---
+
+#### 🧮 Formulas & Math Explanation Tool
+
+**Prompt:**
+
+> Create a math solver that allows students to input algebra or geometry problems, with Gemini returning step-by-step explanations, visual aids (if possible), and simplification breakdowns.
+
+---
+
+#### 🧠 Content Brief Builder (SEO Teams)
+
+**Prompt:**
+
+> Use Gemini to build content briefs from target keywords, including intent analysis, H1–H4 structure, FAQs, internal link suggestions, and content length recommendations based on SERP analysis.
+
+---
+
+#### 🎧 Podcast Summary Generator
+
+**Prompt:**
+
+> Upload a podcast transcript and have Gemini summarize it into episode notes, timestamps, short reels text, and blog recaps. Optional: let it generate tweets and LinkedIn threads.
+
+---
+
+#### 🧰 API Testing Assistant
+
+**Prompt:**
+
+> Create a Gemini-powered tool that lets users input an API endpoint and it generates test cases, sample requests, headers, and error-handling patterns. Include auto-generation of Postman collections.
+
+---
+
+#### 🖼️ Image Description & SEO Tag Generator
+
+**Prompt:**
+
+> Build a tool where users upload an image and Gemini generates alt tags, titles, and descriptions optimized for accessibility and SEO. Add Pinterest and Instagram-friendly captioning options.
+
+---
+
+#### 📖 PDF Explainer Tool
+
+**Prompt:**
+
+> Create a chat interface powered by Gemini where users upload large PDFs (like research papers or reports), then ask questions and get answers in context with citation-aware summarization.
+
+---
+
+#### 🎓 Course Curriculum Designer
+
+**Prompt:**
+
+> Input a subject (e.g., "AI for Beginners") and Gemini builds a week-by-week curriculum with learning outcomes, resources, assignments, and reading lists. Support output for LMS imports or Notion pages.
+
+Great! Here's a categorized set of **Google Gemini API-powered tool prompts** grouped by use case — along with **example API call structure** to help you get started building. This gives clarity on both **tool concepts** and **how to technically execute them**.
+
+---
+
+## 🧠 **Education & Learning Tools**
+
+### 1. Flashcard Generator for Students
+
+> Create flashcards from textbook content or transcripts.
+
+**Prompt:**
+
+> “Extract key questions and answers from this biology paragraph and format them as spaced-repetition flashcards.”
+
+---
+
+### 2. LMS Course Curriculum Designer
+
+> Generate complete course structure from a subject name.
+
+**Prompt:**
+
+> “Design an 8-week course outline for ‘AI for High School Students’ including weekly topics, learning outcomes, assignments, and online resources.”
+
+---
+
+### 3. PDF Explainer Chatbot
+
+> Upload academic papers, get contextual answers.
+
+**Prompt:**
+
+> “Based on this uploaded research paper, explain the main hypothesis, methodology, and findings in simple terms.”
+
+---
+
+## 📈 **SEO & Marketing Tools**
+
+### 4. On-Page SEO Content Optimizer
+
+> Improve blog posts for SEO.
+
+**Prompt:**
+
+> “Review the following article and optimize for the keyword ‘fast web hosting in Pakistan’. Suggest better title, H2s, FAQs, and schema markup.”
+
+---
+
+### 5. Content Brief Generator
+
+> From a keyword, generate structure and guidelines.
+
+**Prompt:**
+
+> “Generate a content brief for ‘affordable cloud storage for startups’ with ideal word count, H1-H3 structure, suggested FAQs, and internal linking suggestions.”
+
+---
+
+### 6. Blog-to-Carousel Generator
+
+> Convert articles into Instagram or LinkedIn carousels.
+
+**Prompt:**
+
+> “Turn this blog post into a 7-slide Instagram carousel with titles and captions on each slide. Add a final slide with a call to action.”
+
+---
+
+## 👩‍💼 **Career & HR Tools**
+
+### 7. Resume & Cover Letter Writer
+
+> Create tailored job application assets.
+
+**Prompt:**
+
+> “Generate a resume and cover letter for a digital marketer with 3 years of experience applying to a remote role at a SaaS startup.”
+
+---
+
+### 8. Resume Improvement & ATS Checker
+
+> Analyze and suggest improvements.
+
+**Prompt:**
+
+> “Analyze this resume for compatibility with Applicant Tracking Systems (ATS). Suggest keyword enhancements and formatting fixes.”
+
+---
+
+### 9. Job Interview Question Generator
+
+> Based on a job role, generate expected interview questions.
+
+**Prompt:**
+
+> “Generate a list of behavioral and technical interview questions for a frontend developer with 2 years of experience.”
+
+---
+
+## 🛠️ **General Productivity & Tools for Everyone**
+
+### 10. Smart Daily Planner
+
+> Generate a task list with prioritization and breaks.
+
+**Prompt:**
+
+> “Build a time-blocked day schedule for a freelancer balancing a client meeting, gym, deep work, and 3 small tasks. Include 2 breaks.”
+
+---
+
+### 11. Email Summarizer & Reply Writer
+
+> Summarize incoming emails and suggest replies.
+
+**Prompt:**
+
+> “Summarize this email and suggest a polite response accepting the meeting request for next Tuesday afternoon.”
+
+---
+
+### 12. Smart Calculator Explainer
+
+> Explain how a calculation was made.
+
+**Prompt:**
+
+> “Explain how to calculate compound interest for 5 years at 7% interest on a \$10,000 investment, step by step.”
+
+---
+
+## 📄 Resume Checker & Optimizer (AI-Powered)
+
+```markdown
+**Prompt Title:** AI Resume Checker & Optimizer
+
+**Prompt:**  
+Build an AI tool that checks and optimizes resumes for clarity, formatting, keyword relevance, and impact using Google Gemini API. The tool should accept uploaded resumes (PDF/DOCX), analyze job-fit for a given role or keyword input, and generate suggestions to improve formatting, grammar, and alignment with job descriptions.
+
+**Features to Include:**
+- Resume upload (PDF/DOCX)
+- Target job title or description input
+- AI-generated feedback (structure, grammar, ATS-friendliness)
+- Keyword analysis & insertion suggestions
+- Export as optimized PDF
+- Gemini API prompt: `“Analyze this resume for a software engineer role and provide improvement suggestions for content and formatting.”`
+```
+
+---
+
+### 💼 Job Description Generator for Employers
+
+```markdown
+**Prompt Title:** AI-Powered Job Description Generator
+
+**Prompt:**  
+Create a tool that allows employers to generate comprehensive job descriptions based on role title and industry. Use Gemini API to fill in qualifications, responsibilities, and required skills tailored to company tone and culture.
+
+**Features to Include:**
+- Role input + industry + tone selector (formal, fun, startup)
+- Gemini-generated job descriptions
+- Editable output
+- Copy/download/share feature
+- Gemini prompt example: `“Generate a job description for a UX designer at a remote-first tech startup, using a casual but professional tone.”`
+```
+
+---
+
+### 🧠 On-Page SEO Analyzer
+
+```markdown
+**Prompt Title:** AI On-Page SEO & Content Optimizer
+
+**Prompt:**  
+Develop a content optimization tool that audits webpages or text content and suggests improvements for SEO. Use Gemini API to evaluate headings, keyword density, readability, and meta tags.
+
+**Features to Include:**
+- Input field for webpage content or URL
+- Keyword input
+- AI feedback with scores on title, meta, headings, readability, etc.
+- Suggested rewrite or enhancements
+- Gemini API prompt: `“Review this blog post for on-page SEO related to the keyword 'best hiking boots' and suggest optimization improvements.”`
+```
+
+---
+
+### 📊 Employee Performance Summary Generator (HR Tool)
+
+```markdown
+**Prompt Title:** HR AI Performance Review Assistant
+
+**Prompt:**  
+Build a tool for HR teams that generates performance review summaries based on employee activity data or manager inputs. Use Gemini to create professional, bias-aware summaries tailored to different tones and audiences.
+
+**Features to Include:**
+- Input employee metrics or notes
+- Role level selector (junior/senior)
+- Tone selector (formal/supportive)
+- Gemini API summary output
+- Gemini prompt: `“Write a quarterly performance summary for a junior marketing executive who improved social engagement by 20% and collaborated on 3 major campaigns.”`
+```
+
+---
+
+### 📚 Smart Learning Assistant for Students
+
+```markdown
+**Prompt Title:** Gemini-Powered Student Learning Assistant
+
+**Prompt:**  
+Create an AI tool to help students summarize study material, generate quizzes, and explain complex topics in simple terms. It should accept uploaded notes or pasted text and allow question generation from the content.
+
+**Features to Include:**
+- PDF/Text input
+- Quiz question generation (MCQs, short answers)
+- Explanation simplifier (“Explain like I’m 12”)
+- Summary & note generator
+- Gemini prompt: `“Summarize these biology notes and generate 5 multiple-choice questions for a Grade 9 student.”`
+```
+
+---
+
+### 📎 Cover Letter Builder Using AI
+
+```markdown
+**Prompt Title:** AI Cover Letter Generator
+
+**Prompt:**  
+Build a tool to automatically generate tailored cover letters based on a resume and a job description using Gemini API. The tool should customize tone, highlight relevant experience, and match company values.
+
+**Features to Include:**
+- Upload resume
+- Input job title and description
+- Gemini-generated cover letter
+- Tone customization (formal/enthusiastic/direct)
+- Gemini prompt: `“Generate a cover letter for a project manager role at a fintech company using this resume and job description.”`
+```
+
+---
+
+### 🛠️ AI Tool for Blog Post Outlines (SEO-Friendly)
+
+```markdown
+**Prompt Title:** Blog Post Outline & Keyword Tool
+
+**Prompt:**  
+Create a tool that generates structured blog post outlines optimized for SEO based on a keyword or topic input. It should offer headline suggestions, subtopics, and CTA recommendations.
+
+**Features to Include:**
+- Keyword or topic input
+- AI-generated outline with H1, H2s, CTA ideas
+- Tone selector (educational, persuasive, conversational)
+- Gemini prompt: `“Create a detailed blog outline for the keyword ‘how to boost website speed’, using a tutorial tone.”`
+```
+
+---
+
+### 📅 AI Meeting Summarizer & Action Tracker
+
+```markdown
+**Prompt Title:** Gemini AI Meeting Minutes Generator
+
+**Prompt:**  
+Develop a tool that summarizes recorded or transcribed meetings into clear, actionable summaries. Input is pasted or uploaded transcripts, and the tool extracts key decisions, action items, and discussion summaries.
+
+**Features to Include:**
+- Transcript input
+- Gemini-generated summary
+- Action points list
+- Download/share/copy feature
+- Gemini prompt: `“Summarize this meeting transcript into bullet points, action items, and decision outcomes.”`
+```
+
+---
+
+Here is a **Markdown-formatted list of detailed prompts** to build AI-powered tools for **eCommerce, sales, and daily task automation**, ideal for platforms like [lovable.dev](https://lovable.dev) or [Vercel's Vibe](https://vibe.new):
+
+---
+
+## 🛒 eCommerce Tool Prompts
+
+### 🧠 AI Product Description Generator
+
+```markdown
+Build an AI-powered product description generator for eCommerce platforms. 
+Users should be able to input product name, features, tone (professional, witty, SEO-friendly), and target audience. 
+The tool should generate SEO-optimized descriptions for Shopify, WooCommerce, and Amazon listings. 
+Include options for exporting content in Markdown, HTML, and plain text.
+```
+
+### 📦 Product Categorization Assistant
+
+```markdown
+Develop a tool that uses AI to automatically categorize products based on title, description, and images. 
+Support manual override and display confidence scores. 
+Useful for bulk imports into eCommerce platforms. 
+Allow CSV upload and export for mass editing.
+```
+
+### 🎯 Dynamic Pricing Optimizer
+
+```markdown
+Create an AI pricing assistant that suggests optimal product prices based on demand trends, competitor prices (input or scraped), and sales history.
+Include visual charts showing pricing impact predictions.
+Allow custom rule setting (e.g. price floor, max discount).
+```
+
+### 💬 AI Chatbot for Customer Support
+
+```markdown
+Build a GPT-based chatbot for handling FAQs, order tracking, return policies, and product recommendations. 
+Enable integration via JavaScript widget for websites or embed codes.
+Support multi-language responses and analytics dashboard.
+```
+
+---
+
+## 💼 Sales Tools Prompts
+
+### 🔥 Lead Scoring & Qualification Tool
+
+```markdown
+Develop an AI tool that scores inbound leads based on form inputs, interaction data, and CRM history. 
+Include integrations with common CRMs (HubSpot, Salesforce). 
+Let users set scoring weights and lead stages.
+Show lead segmentation insights in dashboard view.
+```
+
+### 📩 AI Email Outreach Generator
+
+```markdown
+Create a cold outreach generator that crafts personalized email templates based on recipient role, company, offer type, and tone. 
+Include variations (subject line, CTA, follow-ups) and allow CSV import of lead lists.
+Add A/B testing suggestion capabilities.
+```
+
+### 📊 Sales Forecasting Dashboard
+
+```markdown
+Build an AI sales forecasting tool that predicts monthly revenue based on past performance, market conditions, and team input.
+Display graphs for optimistic, conservative, and average projections.
+Support goal setting and real-time variance tracking.
+```
+
+---
+
+## ⚙️ Daily Task Automation Prompts
+
+### ✅ Smart Daily Planner & Task Prioritizer
+
+```markdown
+Create a productivity tool that takes a user’s daily to-do list and calendar, then uses AI to prioritize tasks based on deadlines, duration, and energy levels. 
+Support time blocking, Pomodoro scheduling, and real-time plan adjustments.
+Sync with Google Calendar and Notion.
+```
+
+### 🔄 Email Summarizer & Action Extractor
+
+```markdown
+Build a tool that summarizes daily emails and highlights key actions, deadlines, and contacts to follow up with.
+Allow integrations with Gmail/Outlook and export to to-do tools like Trello or Todoist.
+Include AI tagging and smart reminders.
+```
+
+### 📋 Meeting Note Transcriber & Task Extractor
+
+```markdown
+Develop a tool that uses voice input or Zoom transcript to generate meeting summaries with auto-extracted action items.
+Include time-stamped notes, speaker detection, and task delegation via Slack or Asana.
+Add keyword-based tagging and calendar syncing.
+```
+
+---
+
+## 🔍 General Automation Utility Prompts
+
+### 📎 Document Analyzer & Tagger
+
+```markdown
+Create a tool where users upload PDFs, Word, or Excel files and get automated summaries, extracted data tables, key insights, and recommended actions. 
+Allow integration with cloud drives (Google Drive, Dropbox).
+Add tagging, bookmarking, and AI-powered categorization.
+```
+
+### 🛠️ Workflow Builder with Natural Language Input
+
+```markdown
+Build a Zapier-style AI automation builder where users type natural language prompts like 
+"When I get a new order in Shopify, send Slack alert and update Google Sheet". 
+Use Gemini AI to turn that into backend logic.
+Include integration modules for popular apps.
+```
